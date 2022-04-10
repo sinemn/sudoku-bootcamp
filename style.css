@@ -17,5 +17,9 @@ body {
 }
 
 .sTable {
-  border: 1px solid grey;
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  border: 1px solid #ebd8c3;
+  text-align: center;
 }
